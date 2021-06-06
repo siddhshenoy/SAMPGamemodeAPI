@@ -1,0 +1,12 @@
+#pragma once
+
+
+enum class CEntityType
+{
+	ENTITY_INVALID = -1,
+	ENTITY_PLAYER = 0,
+	ENTITY_CAMERA,
+	ENTITY_VEHICLE,
+	ENTITY_OBJECT,
+	ENTITY_FCNPC
+};

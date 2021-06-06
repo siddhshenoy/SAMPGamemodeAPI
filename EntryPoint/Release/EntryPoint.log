@@ -1,0 +1,8 @@
+﻿  EntryPoint.cpp
+     Creating library D:\_sampserver\plugins\GamemodeApiTest.lib and object D:\_sampserver\plugins\GamemodeApiTest.exp
+  Generating code
+  2 of 1567 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  EntryPoint.vcxproj -> D:\_sampserver\plugins\GamemodeApiTest.dll
